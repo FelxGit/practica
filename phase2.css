@@ -298,10 +298,14 @@ footer .logo a:hover {
         
     }
     
-    .intro-img {
-        margin-left: 25%;
-        margin-right: 25%;
+  .intro-img {
+        margin: 0px;
+        width: 100%;
     }
+    .intro-img img {
+        width 100%;
+    }
+    
     
     /**/
     
