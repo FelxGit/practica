@@ -10,11 +10,11 @@ body {
 }
 @font-face {
     font-family: myfont;
-    src: url(Raleway-extralight.ttf);
+    src: url(raleway-extralight.ttf);
 }
 @font-face {
     font-family: 'robotou';
-    src: url(robotofont/roboto-thin.ttf);
+    src: url(robotofont/roboto-black.ttf);
 }
 
 .navbar-inverse {
