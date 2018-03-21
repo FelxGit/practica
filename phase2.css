@@ -9,7 +9,7 @@ body {
     border: thin solid red
 }
 @font-face {
-    font-family: 'myfont';
+    font-family: myfont;
     src: url(Raleway-extralight.ttf);
 }
 @font-face {
@@ -24,7 +24,11 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
+<<<<<<< HEAD
     font-family: 'myfont'!important,'roboto'!important;
+=======
+    font-family: myfont;
+>>>>>>> 5c54b58b3ffd5d4e232e6e991a36d52fa1339d46
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
@@ -40,7 +44,7 @@ header {
     background: url(Images/colortheory.jpg) repeat;
     background-size: cover;
     color: white;
-    font-family: 'myfont';
+    font-family: 'myfont'!important, arial!important;
     overflow: hidden;
     text-align: center;
     
