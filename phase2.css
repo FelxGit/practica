@@ -24,8 +24,7 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
-    font-family: 'myfont'!important,'robotou'!important;
-    font-weight: 100!important;
+    font-family: myfont!important,'robotou'!important, arial!important;
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
