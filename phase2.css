@@ -13,7 +13,7 @@ body {
     src: url(Raleway-extralight.ttf);
 }
 @font-face {
-    font-family: 'roboto';
+    font-family: 'robotou';
     src: url(robotofont/roboto-thin.ttf);
 }
 
@@ -24,11 +24,7 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
-<<<<<<< HEAD
-    font-family: 'myfont'!important,'roboto'!important;
-=======
-    font-family: myfont;
->>>>>>> 5c54b58b3ffd5d4e232e6e991a36d52fa1339d46
+    font-family: 'myfont'!important,'robotou'!important;
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
