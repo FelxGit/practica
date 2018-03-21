@@ -24,7 +24,8 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
-    font-family: 'myfont'!important;
+    font-family: 'myfont'!important,'robotou'!important, arial;
+    font-weight: 100;
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
@@ -40,7 +41,8 @@ header {
     background: url(Images/colortheory.jpg) repeat;
     background-size: cover;
     color: white;
-    font-family: 'myfont'!important, arial!important;
+    font-family: 'myfont'!important,'robotou'!important, arial;
+    font-weight: 100;
     overflow: hidden;
     text-align: center;
     
@@ -67,7 +69,8 @@ header #page-img img{
     display: flex;
     justify-content: center;
     color: black;
-    font-family: 'myfont';
+    font-family: 'myfont'!important,'robotou'!important, arial;
+    font-weight: 100;
     font-size: 2.5vh;
 }
 
@@ -127,7 +130,8 @@ hr {border: 0.5px solid lightgrey;}
     width: 100%;
     margin-top: 100px ;
     text-align: center;
-    font-family: 'myfont'
+    font-family: 'myfont'!important,'robotou'!important, arial;
+    font-weight: 100;
 }
 
 .coffee span:nth-child(1) {
@@ -175,7 +179,8 @@ hr {border: 0.5px solid lightgrey;}
        width: 100%;
        padding: 10%;
        margin: 0px;
-       font-family: 'myfont';
+       font-family: 'myfont'!important,'robotou'!important, arial;
+       font-weight: 100;
        font-size: 2.5vh;
        text-align: center;
     background: #f2f2f2
@@ -250,7 +255,8 @@ footer {
     width: 100%;
     padding: 4%;
     margin:0px;
-    font-family: 'myfont';
+    font-family: 'myfont'!important,'robotou'!important, arial;
+    font-weight: 100;
     font-size: 2.5vh;
     color: dimgray;
     text-align: center;
