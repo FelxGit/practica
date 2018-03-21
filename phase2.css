@@ -5,7 +5,11 @@ body {
 
 
 * {
+<<<<<<< HEAD
     box-sizing: border-box!important;
+=======
+    box-sizing: border-box!important;   
+>>>>>>> 150cac5a6a97275627c753a12f9cf650b3a90ef6
 }
 @font-face {
     font-family: 'myfont';
