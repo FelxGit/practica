@@ -12,6 +12,11 @@ body {
     font-family: 'myfont';
     src: url(Raleway-extralight.ttf);
 }
+@font-face {
+    font-family: 'roboto';
+    src: url(robotofont/roboto-thin.ttf);
+}
+
 .navbar-inverse {
     width: 100%!important;
     padding-left: 10%!important;
@@ -19,7 +24,7 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
-    font-family: 'myfont'!important;
+    font-family: 'myfont'!important,'roboto'!important;
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
