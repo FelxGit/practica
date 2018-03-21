@@ -9,14 +9,9 @@ body {
     border: thin solid red
 }
 @font-face {
-    font-family: myfont;
-    src: url(Raleway-extralight.ttf);
+    font-family: 'myfont';
+    src: url(Raleway/Raleway-ExtraLight.ttf);
 }
-@font-face {
-    font-family: 'roboto';
-    src: url(robotofont/roboto-thin.ttf);
-}
-
 .navbar-inverse {
     width: 100%!important;
     padding-left: 10%!important;
@@ -24,11 +19,7 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
-<<<<<<< HEAD
-    font-family: 'myfont'!important,'roboto'!important;
-=======
-    font-family: myfont;
->>>>>>> 5c54b58b3ffd5d4e232e6e991a36d52fa1339d46
+    font-family: 'myfont'!important;
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
@@ -44,7 +35,7 @@ header {
     background: url(Images/colortheory.jpg) repeat;
     background-size: cover;
     color: white;
-    font-family: 'myfont'!important, arial!important;
+    font-family: 'myfont';
     overflow: hidden;
     text-align: center;
     
@@ -97,8 +88,7 @@ header #page-img img{
     display: block;
 }
 .page-profile ul li {
-    height: 5%;
-    width: 6%;
+    height: auto;
     margin: 0px;
     padding: 0px;
     display: inline-block;
@@ -307,14 +297,13 @@ footer .logo a:hover {
         
     }
     
-  .intro-img {
+    .intro-img {
         margin: 0px;
         width: 100%;
     }
     .intro-img img {
         width 100%;
     }
-    
     
     /**/
     
