@@ -19,7 +19,7 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
-    font-family: verdana, arial!important;
+    font-family: arial!important;
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
@@ -35,7 +35,7 @@ header {
     background: url(Images/colortheory.jpg) repeat;
     background-size: cover;
     color: white;
-    font-family: 'myfont',verdana, arial!important;
+    font-family: arial!important;
     overflow: hidden;
     text-align: center;
     
