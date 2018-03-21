@@ -6,15 +6,10 @@ body {
 
 * {
     box-sizing: border-box!important;
-    border: thin solid red
 }
 @font-face {
     font-family: 'myfont';
-<<<<<<< HEAD
     src: url(Raleway/Raleway-ExtraLight.ttf);
-=======
-    src: url(Raleway-ExtraLight.ttf);
->>>>>>> f5970fbce558d0acf2dfccc43c5038c926f64093
 }
 .navbar-inverse {
     width: 100%!important;
@@ -39,12 +34,7 @@ header {
     background: url(Images/colortheory.jpg) repeat;
     background-size: cover;
     color: white;
-<<<<<<< HEAD
     font-family: 'myfont';
-=======
-    font-family: 'myfont'!important;
-    font-weight: 100!important;
->>>>>>> f5970fbce558d0acf2dfccc43c5038c926f64093
     overflow: hidden;
     text-align: center;
     
@@ -71,8 +61,7 @@ header #page-img img{
     display: flex;
     justify-content: center;
     color: black;
-    font-family: 'myfont'!important;
-    font-weight: 100!important;
+    font-family: 'myfont';
     font-size: 2.5vh;
 }
 
@@ -131,8 +120,7 @@ hr {border: 0.5px solid lightgrey;}
     width: 100%;
     margin-top: 100px ;
     text-align: center;
-    font-family: 'myfont'!important;
-    font-weight: 100!important;
+    font-family: 'myfont'
 }
 
 .coffee span:nth-child(1) {
@@ -164,8 +152,7 @@ hr {border: 0.5px solid lightgrey;}
     margin: 0px;
     display: flex;
     justify-content: center;
-    font-family: 'myfont'!important;
-    font-weight: 100!important;
+    font-family: 'myfont';
     font-size: 3vh;
     text-align: center;
     
@@ -180,12 +167,11 @@ hr {border: 0.5px solid lightgrey;}
        height: auto;
        width: 100%;
        padding: 10%;
-       margin: 0px;   
-       font-family: 'myfont'!important;
-       font-weight: 100!important;
+       margin: 0px;
+       font-family: 'myfont';
        font-size: 2.5vh;
        text-align: center;
-       background: #f2f2f2
+    background: #f2f2f2
 
 }
 
@@ -257,8 +243,7 @@ footer {
     width: 100%;
     padding: 4%;
     margin:0px;
-    font-family: 'myfont'!important;
-    font-weight: 100!important;
+    font-family: 'myfont';
     font-size: 2.5vh;
     color: dimgray;
     text-align: center;
