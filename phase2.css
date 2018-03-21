@@ -9,8 +9,8 @@ body {
     border: thin solid red
 }
 @font-face {
-    font-family: myfont;
-    src: url(raleway-extralight.ttf);
+    font-family: 'myfont';
+    src: url(Raleway-Extralight.ttf);
 }
 @font-face {
     font-family: 'robotou';
@@ -24,8 +24,7 @@ body {
     margin: 0px!important;
     position: fixed!important;
     top: 0px!important;
-    font-family: 'Raleway';
-    font-weight: 100!important;
+    font-family: 'myfont'!important;
     font-size: 2.5vh!important;
     border-radius: 0!important;
     z-index: 9999;
