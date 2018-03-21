@@ -10,7 +10,7 @@ body {
 }
 @font-face {
     font-family: 'myfont'!important;
-    src: url(Raleway-extralight.ttf)!important;
+    src: url(Raleway-extralight.ttf);
 }
 .navbar-inverse {
     width: 100%!important;
