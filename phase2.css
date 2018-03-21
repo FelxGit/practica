@@ -14,7 +14,7 @@ body {
 }
 @font-face {
     font-family: 'robotou';
-    src: url(robotofont/roboto-black.ttf);
+    src: url(robotofont/roboto-thin.ttf);
 }
 
 .navbar-inverse {
